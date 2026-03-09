@@ -13,5 +13,6 @@ This repository is a collection of completed LeetCode challenges and serves as p
 
 ## Problems Solved
 
-| # | Title | Difficulty | Solution |
-|---|---|---|---|
+| # | Title | Difficulty | Solution | Tags |
+|---|---|---|---|---|
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | Easy | [View](./Solutions/0088_MergeSortedArray.cs) | `Array`, `Two Pointers`, `Sorting` |
