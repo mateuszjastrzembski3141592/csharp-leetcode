@@ -1,8 +1,7 @@
 // Problem: 88. Merge Sorted Array
 // Link: https://leetcode.com/problems/merge-sorted-array/description/
 // Difficulty: Easy
-
-using System;
+// Tags: Array, Two Pointers, Sorting
 
 namespace Solutions;
 

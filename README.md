@@ -11,8 +11,11 @@ This repository is a collection of completed LeetCode challenges and serves as p
 [My LeetCode Profile](https://leetcode.com/u/MateuszJastrzembski/)
 
 
-## Problems Solved
+## Problems Solved*
 
 | # | Title | Difficulty | Solution | Tags |
 |---|---|---|---|---|
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | Easy | [View](./Solutions/0088_MergeSortedArray.cs) | `Array`, `Two Pointers`, `Sorting` |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | Easy | [View](./Solutions/0027_RemoveElement.cs) | `Array`, `Two Pointers` |
+
+*This repo is not up to date with my solved LeetCodes but I'm trying to update it ASAP.
